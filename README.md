@@ -26,7 +26,7 @@ A pink and violet BetterDiscord theme with five wallpapers, adjustable backgroun
 | :---: | :--- | :--- |
 | **Wallpaper 1** | <img src="https://wallpaperaccess.com/full/626893.jpg" width="240" alt="Wallpaper 1"> | [Open image](https://wallpaperaccess.com/full/626893.jpg) |
 | **Wallpaper 2** | <img src="https://i.redd.it/ykflm71667s21.png" width="240" alt="Wallpaper 2"> | [Open image](https://i.redd.it/ykflm71667s21.png) |
-| **Wallpaper 3** | <img src="https://wallpapercave.com/wp/wp15382549.png" width="240" alt="Wallpaper 3"> | [Open image](https://wallpapercave.com/wp/wp15382549.png) |
+| **Wallpaper 3** | <img src="[https://wallpapercave.com/wp/wp15382549.png](https://res.cloudinary.com/bfyniy76/image/upload/v1790361353/wp15382549.png)" width="240" alt="Wallpaper 3"> | [Open image]([https://wallpapercave.com/wp/wp15382549.png](https://res.cloudinary.com/bfyniy76/image/upload/v1790361353/wp15382549.png)) |
 | **Wallpaper 4** | <img src="https://preview.redd.it/1920x1080-pink-v0-pt1iqfk90lh71.jpg?auto=webp&amp;s=c6f0cc6440a027a896f94029a799a0610ac92969" width="240" alt="Wallpaper 4"> | [Open image](https://preview.redd.it/1920x1080-pink-v0-pt1iqfk90lh71.jpg?auto=webp&s=c6f0cc6440a027a896f94029a799a0610ac92969) |
 | **Wallpaper 5** | <img src="https://www.zastavki.com/pictures/1920x1080/2020Anime_Anime_girl_with_pink_hair_in_a_white_dress_144914_23.jpg" width="240" alt="Wallpaper 5"> | [Open image](https://www.zastavki.com/pictures/1920x1080/2020Anime_Anime_girl_with_pink_hair_in_a_white_dress_144914_23.jpg) |
 
